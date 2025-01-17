@@ -1,0 +1,9 @@
+{
+    "require": {
+        "chillerlan/php-qrcode": "^5.0",
+        "choowx/rasterize-svg": "^0.1.2",
+        "contao/imagine-svg": "^1.0",
+        "endroid/qr-code": "^6.0",
+        "bacon/bacon-qr-code": "^3.0"
+    }
+}
