@@ -26,3 +26,13 @@ composer install
 ```bash
 php -S localhost:8000
 ```
+
+## Links
+
+Here are some links to my other projects and websites:
+
+- **QR Code Generator** - [https://qrcode.eelcogreidanus.nl](https://qrcode.eelcogreidanus.nl)
+- **Eelco Greidanus** - [https://www.eelcogreidanus.nl](https://www.eelcogreidanus.nl)
+- **Egreidanus ICT** - [https://www.eelcoict.nl](https://www..eelcoict.nl)
+
+Feel free to explore and contribute!
